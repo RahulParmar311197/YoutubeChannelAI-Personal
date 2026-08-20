@@ -1,0 +1,11 @@
+{
+  "name": "ChannelAI Personal Creator Edition",
+  "purpose": "Private single-creator YouTube production studio",
+  "saas_billing": false,
+  "multi_tenant": false,
+  "auto_publish_default": false,
+  "human_approval_default": true,
+  "entrypoint": "infra/docker-compose.personal.yml",
+  "config": ".env",
+  "bootstrap": "scripts/start-personal.sh"
+}

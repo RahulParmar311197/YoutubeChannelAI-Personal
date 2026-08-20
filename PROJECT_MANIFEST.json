@@ -1,0 +1,14 @@
+{
+  "name": "ChannelAI",
+  "release": "all-in-one-production-code",
+  "source_files": 125,
+  "entrypoints": {
+    "api": "apps/api/app/main.py",
+    "worker": "apps/worker/entrypoint.py",
+    "web": "apps/web",
+    "production_compose": "infra/docker-compose.prod.yml",
+    "configuration": ".env.production.example",
+    "bootstrap": "scripts/bootstrap.sh"
+  },
+  "requires_external_configuration": true
+}
