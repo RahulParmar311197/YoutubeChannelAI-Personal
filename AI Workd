@@ -1,0 +1,84 @@
+repository,github_url,category,stars,description
+anthropics/claude-code,https://github.com/anthropics/claude-code,AI Agents & Coding Tools,113K,Claude Code - Agentic coding tool for terminal
+anthropics/skills,https://github.com/anthropics/skills,AI Agents & Coding Tools,116K,Agent Skills public repository
+openai/codex,https://github.com/openai/codex,AI Agents & Coding Tools,75K,Lightweight terminal coding agent
+openai/symphony,https://github.com/openai/symphony,AI Agents & Coding Tools,15K,Isolated autonomous execution
+NousResearch/hermes-agent,https://github.com/NousResearch/hermes-agent,AI Agents & Coding Tools,75K,Agent that grows with you
+FoundationAgents/MetaGPT,https://github.com/FoundationAgents/MetaGPT,AI Agents & Coding Tools,67K,Multi-agent framework for roles
+FoundationAgents/OpenManus,https://github.com/FoundationAgents/OpenManus,AI Agents & Coding Tools,56K,Open-source Manus alternative
+microsoft/autogen,https://github.com/microsoft/autogen,AI Agents & Coding Tools,57K,Agentic AI programming framework
+langchain-ai/langchain,https://github.com/langchain-ai/langchain,AI Agents & Coding Tools,133K,Agent engineering platform
+langchain-ai/langgraph,https://github.com/langchain-ai/langgraph,AI Agents & Coding Tools,29K,Graphical language agent building
+crewAIInc/crewAI,https://github.com/crewAIInc/crewAI,AI Agents & Coding Tools,49K,Role-playing orchestration
+bytedance/deer-flow,https://github.com/bytedance/deer-flow,AI Agents & Coding Tools,61K,Long-term SuperAgent framework
+OpenHands/OpenHands,https://github.com/OpenHands/OpenHands,AI Agents & Coding Tools,71K,AI-powered development
+browser-use/browser-use,https://github.com/browser-use/browser-use,AI Agents & Coding Tools,88K,AI Agent web access
+agentscope-ai/agentscope,https://github.com/agentscope-ai/agentscope,AI Agents & Coding Tools,24K,Building trustworthy agents
+stitionai/devika,https://github.com/stitionai/devika,AI Agents & Coding Tools,19K,Agentic software engineer
+Aider-AI/aider,https://github.com/Aider-AI/aider,AI Agents & Coding Tools,43K,Terminal AI pair programming
+Pythagora-io/gpt-pilot,https://github.com/Pythagora-io/gpt-pilot,AI Agents & Coding Tools,34K,First real AI developer
+cline/cline,https://github.com/cline/cline,AI Agents & Coding Tools,60K,IDE autonomous coding agent
+cursor/cursor,https://github.com/cursor/cursor,AI Agents & Coding Tools,33K,AI code editor
+SWE-agent/SWE-agent,https://github.com/SWE-agent/SWE-agent,AI Agents & Coding Tools,19K,Fix GitHub Issues automatically
+RooCodeInc/Roo-Code,https://github.com/RooCodeInc/Roo-Code,AI Agents & Coding Tools,23K,Editor AI Agent
+openinterpreter/open-interpreter,https://github.com/openinterpreter/open-interpreter,AI Agents & Coding Tools,63K,Natural language computer interface
+antonosika/gpt-engineer,https://github.com/antonosika/gpt-engineer,AI Agents & Coding Tools,55K,CLI code generation platform
+gptme/gptme,https://github.com/gptme/gptme,AI Agents & Coding Tools,4K,Your terminal agent
+QwenLM/qwen-code,https://github.com/QwenLM/qwen-code,AI Agents & Coding Tools,23K,Open-source terminal AI agent
+myshell-ai/AIlice,https://github.com/myshell-ai/AIlice,AI Agents & Coding Tools,1.4K,Fully autonomous agent
+Fosowl/agenticSeek,https://github.com/Fosowl/agenticSeek,AI Agents & Coding Tools,26K,Local Manus AI
+kortix-ai/suna,https://github.com/kortix-ai/suna,AI Agents & Coding Tools,20K,Autonomous company OS
+moonshotai/kimi-cli,https://github.com/moonshotai/kimi-cli,AI Agents & Coding Tools,8K,Kimi Code CLI
+google-gemini/gemini-cli,https://github.com/google-gemini/gemini-cli,AI Agents & Coding Tools,101K,Open-source terminal AI Agent
+claude-code-best/claude-code,https://github.com/claude-code-best/claude-code,Claude Code Ecosystem,16K,Runnable Claude Code
+shareAI-lab/learn-claude-code,https://github.com/shareAI-lab/learn-claude-code,Claude Code Ecosystem,53K,Nano Claude Code agent
+steipete/CodexBar,https://github.com/steipete/CodexBar,Claude Code Ecosystem,11K,Agent usage statistics
+musistudio/claude-code-router,https://github.com/musistudio/claude-code-router,Claude Code Ecosystem,32K,Claude Code infrastructure
+doriandarko/claude-engineer,https://github.com/doriandarko/claude-engineer,Claude Code Ecosystem,11K,Claude 3.5 Sonnet CLI
+cranot/claude-code-guide,https://github.com/cranot/claude-code-guide,Claude Code Ecosystem,2.6K,Full CLI guide
+wasabeef/claude-code-cookbook,https://github.com/wasabeef/claude-code-cookbook,Claude Code Ecosystem,1K,Setup and recipes
+ollama/ollama,https://github.com/ollama/ollama,LLM Frameworks & Inference,169K,One-click LLM local deployment
+vllm-project/vllm,https://github.com/vllm-project/vllm,LLM Frameworks & Inference,76K,High-throughput inference engine
+sgl-project/sglang,https://github.com/sgl-project/sglang,LLM Frameworks & Inference,26K,High-performance serving
+ggml-org/llama.cpp,https://github.com/ggml-org/llama.cpp,LLM Frameworks & Inference,103K,C/C++ LLM inference
+huggingface/transformers,https://github.com/huggingface/transformers,LLM Frameworks & Inference,159K,SOTA ML models
+huggingface/trl,https://github.com/huggingface/trl,LLM Frameworks & Inference,18K,RL training for transformers
+karpathy/llm.c,https://github.com/karpathy/llm.c,LLM Frameworks & Inference,30K,Raw C/CUDA training
+google/gemma.cpp,https://github.com/google/gemma.cpp,LLM Frameworks & Inference,7K,Gemma lightweight C++
+unslothai/unsloth,https://github.com/unslothai/unsloth,LLM Frameworks & Inference,61K,Training Web UI
+kvcache-ai/ktransformers,https://github.com/kvcache-ai/ktransformers,LLM Frameworks & Inference,17K,Heterogeneous LLM inference
+Tiiny-AI/PowerInfer,https://github.com/Tiiny-AI/PowerInfer,LLM Frameworks & Inference,9K,Fast local serving
+NVIDIA/TensorRT-LLM,https://github.com/NVIDIA/TensorRT-LLM,LLM Frameworks & Inference,13K,NVIDIA LLM inference
+ml-explore/mlx,https://github.com/ml-explore/mlx,macOS Specialized,25K,Apple Silicon array framework
+Blaizzy/mlx-vlm,https://github.com/Blaizzy/mlx-vlm,macOS Specialized,4K,Mac Vision-Language models
+Blaizzy/mlx-audio,https://github.com/Blaizzy/mlx-audio,macOS Specialized,7K,Apple MLX TTS/STT/STS
+ml-explore/mlx-lm,https://github.com/ml-explore/mlx-lm,macOS Specialized,5K,MLX running LLMs
+jundot/omlx,https://github.com/jundot/omlx,macOS Specialized,10K,Apple Silicon inference server
+walter-grace/mac-code,https://github.com/walter-grace/mac-code,macOS Specialized,786,Free Claude Code for Mac
+OpenBMB/VoxCPM,https://github.com/OpenBMB/VoxCPM,Audio Voice & Music,12K,No-tokenizer TTS
+RVC-Boss/GPT-SoVITS,https://github.com/RVC-Boss/GPT-SoVITS,Audio Voice & Music,57K,1-min voice data TTS
+2noise/ChatTTS,https://github.com/2noise/ChatTTS,Audio Voice & Music,39K,Generative speech model
+FunAudioLLM/CosyVoice,https://github.com/FunAudioLLM/CosyVoice,Audio Voice & Music,21K,Multilingual voice generation
+index-tts/index-tts,https://github.com/index-tts/index-tts,Audio Voice & Music,20K,Industrial grade TTS
+SYSTRAN/faster-whisper,https://github.com/SYSTRAN/faster-whisper,Audio Voice & Music,22K,Faster Whisper transcription
+ace-step/ACE-Step-1.5,https://github.com/ace-step/ACE-Step-1.5,Audio Voice & Music,9K,Local music generation
+Anjok07/ultimatevocalremovergui,https://github.com/Anjok07/ultimatevocalremovergui,Audio Voice & Music,24K,AI Vocal removal
+OpenCut-app/OpenCut,https://github.com/OpenCut-app/OpenCut,Video Generation & Editing,48K,Open CapCut alternative
+remotion-dev/remotion,https://github.com/remotion-dev/remotion,Video Generation & Editing,43K,Programmatic React video
+Lightricks/LTX-2,https://github.com/Lightricks/LTX-2,Video Generation & Editing,6K,A/V generation model
+OpenGVLab/InternVL,https://github.com/OpenGVLab/InternVL,Vision & Multimodal,10K,Open GPT-4o alternative
+OpenBMB/MiniCPM-o,https://github.com/OpenBMB/MiniCPM-o,Vision & Multimodal,24K,Gemini 2.5 Flash level MLLM
+Comfy-Org/ComfyUI,https://github.com/Comfy-Org/ComfyUI,Vision & Multimodal,109K,Diffusion model GUI
+PaddlePaddle/PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR,Vision & Multimodal,76K,Multi-format OCR toolkit
+opendatalab/MinerU,https://github.com/opendatalab/MinerU,Vision & Multimodal,60K,PDF to Markdown extraction
+MemPalace/mempalace,https://github.com/MemPalace/mempalace,Memory Systems & RAG,44K,Highest rated AI memory
+mem0ai/mem0,https://github.com/mem0ai/mem0,Memory Systems & RAG,53K,Universal memory layer
+infiniflow/ragflow,https://github.com/infiniflow/ragflow,Memory Systems & RAG,78K,Enterprise RAG engine
+HKUDS/LightRAG,https://github.com/HKUDS/LightRAG,Memory Systems & RAG,33K,Fast and simple RAG
+stanford-oval/storm,https://github.com/stanford-oval/storm,Memory Systems & RAG,28K,LLM knowledge curation
+chroma-core/chroma,https://github.com/chroma-core/chroma,Memory Systems & RAG,27K,AI data infrastructure
+hiyouga/LlamaFactory,https://github.com/hiyouga/LlamaFactory,Training & Infrastructure,70K,Unified fine-tuning (ACL 2024)
+langgenius/dify,https://github.com/langgenius/dify,Training & Infrastructure,138K,Production Agentic workflows
+langflow-ai/langflow,https://github.com/langflow-ai/langflow,Training & Infrastructure,147K,AI-driven Agent builder
+astral-sh/uv,https://github.com/astral-sh/uv,Training & Infrastructure,83K,Fast Python package manager
+ray-project/ray,https://github.com/ray-project/ray,Training & Infrastructure,42K,AI compute engine
