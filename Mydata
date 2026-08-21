@@ -8,3 +8,110 @@ https://github.com/langchain-ai/langchain
 https://github.com/langchain-ai
 https://github.com/crewAIInc/crewAI
 https://github.com/crewAIInc
+
+Mainstream Agent Frameworks
+Project	Stars	Description
+anthropics/claude-code	113K	Claude Code - Agentic coding tool for terminal
+anthropics/skills	116K	Agent Skills public repository
+openai/codex	75K	Lightweight terminal coding agent
+openai/symphony	15K	Isolated autonomous execution
+NousResearch/hermes-agent	75K	Agent that grows with you
+FoundationAgents/MetaGPT	67K	Multi-agent framework for roles
+FoundationAgents/OpenManus	56K	Open-source Manus alternative
+microsoft/autogen	57K	Agentic AI programming framework
+langchain-ai/langchain	133K	Agent engineering platform
+langchain-ai/langgraph	29K	Graphical language agent building
+crewAIInc/crewAI	49K	Role-playing orchestration
+bytedance/deer-flow	61K	Long-term SuperAgent framework
+OpenHands/OpenHands	71K	AI-powered development
+browser-use/browser-use	88K	AI Agent web access
+agentscope-ai/agentscope	24K	Building trustworthy agents
+stitionai/devika	19K	Agentic software engineer
+Aider-AI/aider	43K	Terminal AI pair programming
+Pythagora-io/gpt-pilot	34K	First real AI developer
+cline/cline	60K	IDE autonomous coding agent
+cursor/cursor	33K	AI code editor
+SWE-agent/SWE-agent	19K	Fix GitHub Issues automatically
+RooCodeInc/Roo-Code	23K	Editor AI Agent
+openinterpreter/open-interpreter	63K	Natural language computer interface
+antonosika/gpt-engineer	55K	CLI code generation platform
+gptme/gptme	4K	Your terminal agent
+QwenLM/qwen-code	23K	Open-source terminal AI agent
+myshell-ai/AIlice	1.4K	Fully autonomous agent
+Fosowl/agenticSeek	26K	Local Manus AI
+kortix-ai/suna	20K	Autonomous company OS
+moonshotai/kimi-cli	8K	Kimi Code CLI
+google-gemini/gemini-cli	101K	Open-source terminal AI Agent
+Project	Stars	Description
+claude-code-best/claude-code	16K	Runnable Claude Code
+shareAI-lab/learn-claude-code	53K	Nano Claude Code agent
+steipete/CodexBar	11K	Agent usage statistics
+musistudio/claude-code-router	32K	Claude Code infrastructure
+doriandarko/claude-engineer	11K	Claude 3.5 Sonnet CLI
+cranot/claude-code-guide	2.6K	Full CLI guide
+wasabeef/claude-code-cookbook	1K	Setup and recipes
+
+Project	Stars	Description
+ollama/ollama	169K	One-click LLM local deployment
+vllm-project/vllm	76K	High-throughput inference engine
+sgl-project/sglang	26K	High-performance serving
+ggml-org/llama.cpp	103K	C/C++ LLM inference
+huggingface/transformers	159K	SOTA ML models
+huggingface/trl	18K	RL training for transformers
+karpathy/llm.c	30K	Raw C/CUDA training
+google/gemma.cpp	7K	Gemma lightweight C++
+unslothai/unsloth	61K	Training Web UI
+kvcache-ai/ktransformers	17K	Heterogeneous LLM inference
+Tiiny-AI/PowerInfer	9K	Fast local serving
+NVIDIA/TensorRT-LLM	13K	NVIDIA LLM inference
+
+Project	Stars	Description
+ml-explore/mlx	25K	Apple Silicon array framework
+Blaizzy/mlx-vlm	4K	Mac Vision-Language models
+Blaizzy/mlx-audio	7K	Apple MLX TTS/STT/STS
+ml-explore/mlx-lm	5K	MLX running LLMs
+jundot/omlx	10K	Apple Silicon inference server
+walter-grace/mac-code	786	Free Claude Code for Mac
+Project	Stars	Description
+OpenBMB/VoxCPM	12K	No-tokenizer TTS
+RVC-Boss/GPT-SoVITS	57K	1-min voice data TTS
+2noise/ChatTTS	39K	Generative speech model
+FunAudioLLM/CosyVoice	21K	Multilingual voice generation
+index-tts/index-tts	20K	Industrial grade TTS
+SYSTRAN/faster-whisper	22K	Faster Whisper transcription
+ace-step/ACE-Step-1.5	9K	Local music generation
+Anjok07/ultimatevocalremovergui	24K	AI Vocal removal
+Video Generation & Vision
+Project	Stars	Description
+OpenCut-app/OpenCut	48K	Open CapCut alternative
+remotion-dev/remotion	43K	Programmatic React video
+Lightricks/LTX-2	6K	A/V generation model
+OpenGVLab/InternVL	10K	Open GPT-4o alternative
+OpenBMB/MiniCPM-o	24K	Gemini 2.5 Flash level MLLM
+Comfy-Org/ComfyUI	109K	Diffusion model GUI
+PaddlePaddle/PaddleOCR	76K	Multi-format OCR toolkit
+opendatalab/MinerU	60K	PDF to Markdown extraction
+
+
+Memory Systems & RAG
+Project	Stars	Description
+MemPalace/mempalace	44K	Highest rated AI memory
+mem0ai/mem0	53K	Universal memory layer
+infiniflow/ragflow	78K	Enterprise RAG engine
+HKUDS/LightRAG	33K	Fast and simple RAG
+stanford-oval/storm	28K	LLM knowledge curation
+chroma-core/chroma	27K	AI data infrastructure
+
+
+
+Training & Infrastructure
+Project	Stars	Description
+hiyouga/LlamaFactory	70K	Unified fine-tuning (ACL 2024)
+unslothai/unsloth	61K	Fast local model training
+langgenius/dify	138K	Production Agentic workflows
+langflow-ai/langflow	147K	AI-driven Agent builder
+astral-sh/uv	83K	Fast Python package manager
+ray-project/ray	42K	AI compute engine
+
+
+
